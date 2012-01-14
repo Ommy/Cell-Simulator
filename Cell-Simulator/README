@@ -1,0 +1,19 @@
+This was a program I worked on in highschool.
+
+It is a basic cell simulator that shows the effect of viruses on the human body's blood cells.
+
+It also shows the effects that white blood cells have on virues.
+
+The application is designed to allow for the user to create the scenario, and see how it will play out.
+It allows for the following user input:
+
+  *Number of Blood Cells
+  *Number of Viruses
+  *Number of White Blood Cells
+  *Regeneration Rate of Red Blood Cells
+
+**NOTE: This application isn't completely medically accurate, but goes off the base idea of what each of the cells will
+**do.
+
+**Designed by:
+**Fasih Awan, Tauben, and Claire (group partners)
